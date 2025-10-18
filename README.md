@@ -7,4 +7,4 @@ download, extract, then place into the songs folder of any game that will accept
 
 please note that these are made for normal people who do not want to develop tendonitis or any chronic wrist injuries while playing a keyboard rhythm game. if you decide these are too far beneath you to enjoy, good for you. i'll see you in a few years when your wrists give out.
 
-these charts are made for fun and are released freely into the wild. i do not claim ownership over any of the music or backgrounds used. as if that wasn't already obvious.
+these charts are made for fun and are released freely into the wild. i do not claim ownership over any of the music or backgrounds used. in other words, this is 100% pure fan work all put together by me, as if that wasn't already obvious.
