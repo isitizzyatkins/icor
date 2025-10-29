@@ -29,7 +29,7 @@ this is the medium chart with all of the technical elements removed, just like t
 some songs in tier 1 will have a bare bones beginner chart, which is an even further thinned out version of the medium chart. it is meant to be a tool for developing the first bits of muscle memory to be able to play the actual charts. they are considerably boring by design and are only really made so people who have never touched a rhythm game before have someplace to start.
 ___________________
 
-PLEASE NOTE: songs are organized by their hardeset difficulty, so some easy charts may feel out of place within a tier or significantly easier than others of the same tier. i'm considering the complexity of the full chart when it comes to where to place a song. easier difficulties are made for convenience and are not the full intended experience. 
+PLEASE NOTE: songs are organized by their hardest difficulty, so some easy charts may feel out of place within a tier or significantly easier than others of the same tier. i'm considering the complexity of the full chart when it comes to where to place a song. easier difficulties are made for convenience and are not the full intended experience. 
 
 basically, each song has two charts, (challenge and medium), which then have alternative versions for practice or gimmick playing or whatever, (hard and easy).
 
