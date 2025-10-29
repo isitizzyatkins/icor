@@ -20,10 +20,10 @@ this is the full chart as intended. every other difficulty is derived from this 
 this is the challenge chart, but stripped of all the technical extras that make certain sections more difficult. i remove all jumps, hands, and quads, i shorten holds, and i remove mines that are inside of played sections. it is one arrow at a time at the same speed as the challenge chart. easier to read, just as fast. 
 
 ### (MEDIUM) 
-this is the challenge chart, but with significantly reduced density. i remove a good percentage of the notes to decrease difficulty without sacrificing the integrety of the song's rhythm. i keep many technical elements for the sake of practicing more difficult patterns and overall remove elements so that it is noticeably easier than challenge and hard.
+this is the challenge chart, but with significantly reduced density. i remove a good percentage of the notes to decrease difficulty without sacrificing the integrity of the song's rhythm. i keep many technical elements for the sake of practicing more difficult patterns and overall remove elements so that it is noticeably easier than challenge and hard.
 
 ### (EASY) 
-this is the medium chart with all of the technical elements removed, just like the hard chart. in most cases, this is the easiest version i will make, which does not mean it's easy in general. it is only easy comopared to the other difficulties for that song.
+this is the medium chart with all of the technical elements removed, just like the hard chart. in most cases, this is the easiest version i will make, which does not mean it's easy in general. it is only easy compared to the other difficulties for that song.
 
 ### (BEGINNER) 
 some songs in tier 1 will have a bare bones beginner chart, which is an even further thinned out version of the medium chart. it is meant to be a tool for developing the first bits of muscle memory to be able to play the actual charts. they are considerably boring by design and are only really made so people who have never touched a rhythm game before have someplace to start.
