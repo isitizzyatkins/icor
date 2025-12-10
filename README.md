@@ -10,7 +10,7 @@ please note that these are made for normal people who do not want to develop ten
 these charts are made for fun and are released freely into the wild. i do not claim ownership over any of the music or backgrounds used. in other words, this is 100% pure fan work all put together by me, as if that wasn't already obvious.
 
 ## difficulty legend
-every song has been given at least 4 difficulties with very specific design methodologies to ensure that each chart is both fun 
+every song has been given at least 2 difficulties, and some have 4, with very specific design methodologies to ensure that each chart is both fun 
 and useful for actually learning how to play.
 
 ### (CHALLENGE/EXPERT/INSANE/the hardest one) 
